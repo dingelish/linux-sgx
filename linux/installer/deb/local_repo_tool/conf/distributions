@@ -13,3 +13,11 @@ Architectures: amd64
 Components: main
 Description: ubuntu/bionic repository for SGX PSW
 DebIndices: Packages .
+
+Origin: Intel Corporation
+Label: Intel Corporation
+Codename: jessie
+Architectures: amd64
+Components: main
+Description: debian/jessie repository for SGX PSW
+DebIndices: Packages .
