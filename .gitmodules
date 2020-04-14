@@ -6,3 +6,6 @@
 	path = external/dnnl/dnnl
 	url = https://github.com/intel/mkl-dnn.git
 	branch = rls-v1.1
+[submodule "external/dcap_source"]
+	path = external/dcap_source
+	url = git@code.byted.org:security/intel-sgx-dcap.git
